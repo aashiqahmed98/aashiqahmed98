@@ -32,4 +32,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: aahsiqahmed10101@gmail.com 
 
 
+[![Twitter: urs_aashiq](https://img.shields.io/twitter/follow/urs_aashiq?style=social)](https://twitter.com/urs_aashiq)
+[![Linkedin: aashiqahmed10101](https://img.shields.io/badge/-aashiqahmed10101-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aashiqahmed10101/)](https://www.linkedin.com/in/aashiqahmed10101)
+[![GitHub AashiqinCode](https://img.shields.io/github/followers/AashiqinCode?label=follow&style=social)](https://github.com/AashiqinCode)
+
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=AashiqinCode&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
