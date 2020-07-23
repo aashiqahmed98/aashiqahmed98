@@ -36,4 +36,18 @@ Here are some ideas to get you started:
 [![Linkedin: aashiqahmed10101](https://img.shields.io/badge/-aashiqahmed10101-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aashiqahmed10101/)](https://www.linkedin.com/in/aashiqahmed10101)
 [![GitHub AashiqinCode](https://img.shields.io/github/followers/AashiqinCode?label=follow&style=social)](https://github.com/AashiqinCode)
 
+<a href="https://github.com/AashiqinCode">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AashiqnCode&theme=dark&hide_langs_below=1" />
+</a>
+<a href="https://github.com/AashiqinCode">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=AashiqinCode&show_icons=true&theme=dracula&line_height=27" alt="Aashiq's github stats"/>
+</a>
+
+
+
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=AashiqinCode&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+
+
+
+
+
