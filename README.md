@@ -37,10 +37,7 @@ Here are some ideas to get you started:
 [![GitHub AashiqinCode](https://img.shields.io/github/followers/AashiqinCode?label=follow&style=social)](https://github.com/AashiqinCode)
 
 <a href="https://github.com/AashiqinCode">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AashiqnCode&theme=dark&hide_langs_below=1" />
-</a>
-<a href="https://github.com/AashiqinCode">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=AashiqinCode&show_icons=true&theme=dracula&line_height=27" alt="Aashiq's github stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AashiqinCode&theme=dark&hide_langs_below=1" />
 </a>
 
 
