@@ -24,11 +24,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Nothing
-- 🌱 I’m currently learning Manything
-- 👯 I’m looking to collaborate on Something
-- 🤔 I’m looking for help with All-thing
-- 💬 Ask me about Anything
+- 🔭 I’m currently working on React and Nextjs
+- 🌱 I’m currently learning Nextjs and JAMstack
 - 📫 How to reach me: aahsiqahmed10101@gmail.com 
 
 
