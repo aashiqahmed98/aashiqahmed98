@@ -6,7 +6,7 @@
 <a href="https://linkedin.com/in/aashiqahmed10101">
   <img align="left" alt="Aashiq's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/AashiqinCode">
+<a href="https://github.com/aashiqahmed98">
   <img align="left" alt="Aashiq's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 </a>
@@ -20,7 +20,7 @@
 <br/>
 
 <!--
-**AashiqinCode/AashiqinCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+**aashiqahmed98/aashiqahmed98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 Here are some ideas to get you started:
 
@@ -31,14 +31,14 @@ Here are some ideas to get you started:
 
 [![Twitter: urs_aashiq](https://img.shields.io/twitter/follow/urs_aashiq?style=social)](https://twitter.com/urs_aashiq)
 [![Linkedin: aashiqahmed10101](https://img.shields.io/badge/-aashiqahmed10101-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aashiqahmed10101/)](https://www.linkedin.com/in/aashiqahmed10101)
-[![GitHub AashiqinCode](https://img.shields.io/github/followers/AashiqinCode?label=follow&style=social)](https://github.com/AashiqinCode)
+[![GitHub aashiqahmed98](https://img.shields.io/github/followers/aashiqahmed98?label=follow&style=social)](https://github.com/aashiqahmed98)
 
 <div align="center">
-<a href="https://github.com/AashiqinCode">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AashiqinCode&theme=dark&hide_langs_below=1" />
+<a href="https://github.com/aashiqahmed98">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aashiqahmed98&theme=dark&hide_langs_below=1" />
 </a>
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=AashiqinCode&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=aashiqahmed98&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 
 </div>
 
