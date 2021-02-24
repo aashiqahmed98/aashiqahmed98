@@ -35,10 +35,13 @@ Here are some ideas to get you started:
 
 <div align="center">
 <a href="https://github.com/aashiqahmed98">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aashiqahmed98&theme=dark&hide_langs_below=1" />
+  <img align="left" width="350" src="https://github-readme-stats.vercel.app/api?username=aashiqahmed98&layout=compact&show_icons=true&theme=dark" alt="Aashiq's github stats"/>
+
 </a>
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=aashiqahmed98&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+
+<img align="left" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aashiqahmed98&layout=compact&show_icons=true&theme=merko" alt="Aashiq stats"/>
+
 
 </div>
 
