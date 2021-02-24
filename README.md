@@ -33,18 +33,15 @@ Here are some ideas to get you started:
 [![Linkedin: aashiqahmed10101](https://img.shields.io/badge/-aashiqahmed10101-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aashiqahmed10101/)](https://www.linkedin.com/in/aashiqahmed10101)
 [![GitHub aashiqahmed98](https://img.shields.io/github/followers/aashiqahmed98?label=follow&style=social)](https://github.com/aashiqahmed98)
 
-<div align="center">
+
 <a href="https://github.com/aashiqahmed98">
   <img align="left" width="350" src="https://github-readme-stats.vercel.app/api?username=aashiqahmed98&layout=compact&show_icons=true&theme=dark" alt="Aashiq's github stats"/>
-
-</a>
-
-
+ </a>
 <img align="left" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aashiqahmed98&layout=compact&show_icons=true&theme=merko" alt="Aashiq stats"/>
 
 
-</div>
 <br/>
+
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
