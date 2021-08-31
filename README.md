@@ -22,12 +22,6 @@
 <!--
 **aashiqahmed98/aashiqahmed98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on React and Nextjs
-- 🌱 I’m currently learning Nextjs and JAMstack
-- 📫 How to reach me: aahsiqahmed10101@gmail.com 
-
 
 [![Twitter: urs_aashiq](https://img.shields.io/twitter/follow/urs_aashiq?style=social)](https://twitter.com/urs_aashiq)
 [![Linkedin: aashiqahmed10101](https://img.shields.io/badge/-aashiqahmed10101-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aashiqahmed10101/)](https://www.linkedin.com/in/aashiqahmed10101)
