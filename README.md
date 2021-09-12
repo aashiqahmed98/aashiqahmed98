@@ -1,1 +1,1 @@
-## Hello World,this is AASHIQ 👋.Thanks for visiting my Profile!
+## Hello World,this is aashiq 👋.Thanks for visiting my Profile!
